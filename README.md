@@ -1,7 +1,7 @@
-# Atividades do Curso ITA
-Atividades do curso de POO com Java do ITA.
+# Orientação a Objetos com Java - ITA
 
-Resumo de aprendizado em cada semana do curso:
+Resumo Semanal de Aprendizado em Programação Orientada a Objetos:
+
 Durante as seis semanas do curso, mergulhamos no mundo da programação orientada a objetos (POO), explorando uma ampla gama de conceitos fundamentais e avançados.
 
 Na primeira semana, concentramo-nos em identificar e definir classes, objetos, atributos e construtores. Além disso, aprendemos sobre responsabilidades, colaborações e utilizamos os cartões CRC para a modelagem de objetos, o que representou um novo conhecimento para mim nesse contexto.
